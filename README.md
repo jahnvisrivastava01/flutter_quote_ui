@@ -1,4 +1,4 @@
-# 🌸 Flutter Quote Card App
+#  Flutter Quote Card App
 
 A simple Flutter UI project built while learning Flutter basics 🚀
 
@@ -49,9 +49,3 @@ Main Flutter code is inside:
 ```plaintext
 lib/main.dart
 
-```
-#🚀 Run Project
-
--flutter run
-For Chrome:
-flutter run -d chrome
