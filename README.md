@@ -1,17 +1,57 @@
-# quote_card_app
+# 🌸 Flutter Quote Card App
 
-A new Flutter project.
+A simple Flutter UI project built while learning Flutter basics 🚀
 
-## Getting Started
+## 📱 Project Overview
 
-This project is a starting point for a Flutter application.
+This app displays a stylish quote card with:
+- Quote icon
+- Motivational quote
+- Author name
+- Rounded card UI
+- Shadow effects
+- Custom styling
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# ✨ What I Learned
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter Concepts
+- Widgets
+- Scaffold
+- Container
+- Center
+- Column
+- SizedBox
+- Text & Icon widgets
+
+## UI Styling
+- Colors
+- Padding
+- BoxDecoration
+- Border Radius
+- Box Shadow
+- Text Styling
+
+---
+
+# 🛠️ Tech Stack
+
+- Flutter
+- Dart
+
+---
+
+# 📂 Important Files
+
+Main Flutter code is inside:
+
+```plaintext
+lib/main.dart
+
+```
+#🚀 Run Project
+
+-flutter run
+For Chrome:
+flutter run -d chrome
