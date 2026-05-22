@@ -1,6 +1,6 @@
-#  Flutter Quote Card App
+#  Flutter App 2
 
-A simple Flutter UI project built while learning Flutter basics 🚀
+A simple Flutter quote card app project built while learning Flutter basics 🚀
 
 ## 📱 Project Overview
 
